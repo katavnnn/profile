@@ -246,7 +246,10 @@ body.dark-theme {
     padding: 1.15rem 1.5rem;
     border-radius: .5rem;
     transition: .3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
     box-shadow: 0 8px 24px hsla(var(--hue), var(--sat), var(--lig), .25)
+   
 }
 
 .button__gray,
